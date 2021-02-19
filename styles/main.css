@@ -174,7 +174,7 @@ img {
   }
   
   .partners__item:first-child {
-    margin-left: 0;
+    margin-left: 0px;
   }
 }
 
@@ -208,7 +208,11 @@ img {
   }
 
   .partners__item {
-    max-width: 100%;
     margin-left: 0;
+    max-width: 100%;
+  }
+
+  .partners__item:nth-child(4n+1){
+    margin-left: 0px;
   }
 }
