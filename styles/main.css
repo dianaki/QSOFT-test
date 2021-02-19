@@ -162,7 +162,7 @@ img {
   .partners__item {
     margin-left: 20px;
     margin-bottom: 20px; 
-    max-width: calc(100%/3 - 20px);
+    max-width: calc(100%/3 - 14px);
   }
 
   .partners__item:nth-child(3n+1) {
